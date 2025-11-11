@@ -25,7 +25,7 @@
 
 
 - 2025-10-03: <span style="color:red; font-weight:bold">New OpenCUA model!</span>🔥 
-[OpenCUA-72B-preview](https://huggingface.co/xlangai/OpenCUA-72B-preview) now ranks #1 on the [OSWorld-Verified leaderboard](https://os-world.github.io/). It also has strong grounding ability, 37.3% (SOTA) on UI-Vision 
+[OpenCUA-72B](https://huggingface.co/xlangai/OpenCUA-72B-preview) now ranks #1 on the [OSWorld-Verified leaderboard](https://os-world.github.io/). It also has strong grounding ability, 37.3% (SOTA) on UI-Vision 
  and 60.8% on ScreenSpot-Pro.
 - 2025-08-13: We released our [paper](https://arxiv.org/abs/2508.09123) and [project page](https://opencua.xlang.ai/). Check it out!
 
@@ -44,7 +44,7 @@
 - **[OpenCUA Models](https://huggingface.co/collections/xlangai/opencua-open-foundations-for-computer-use-agents-6882014ebecdbbe46074a68d")**: end-to-end computer-use foundation models than can produce executable actions in the computer environments with great planning and grounding capabilities.
 
 
-With the help of OpenCUA framework, our end-to-end agent models demonstrate strong performance across CUA benchmarks. In particular, <b>OpenCUA-72B-preview</b> achieves an average success rate of **45.0%** on [OSWorld-Verified](https://os-world.github.io/), 
+With the help of OpenCUA framework, our end-to-end agent models demonstrate strong performance across CUA benchmarks. In particular, <b>OpenCUA-72B</b> achieves an average success rate of **45.0%** on [OSWorld-Verified](https://os-world.github.io/), 
 establishing a new state-of-the-art (SOTA) among open-source models. 
 
 </div>
@@ -134,7 +134,7 @@ It also closes the gap to proprietary Claude models.
 | UI-TARS-1.5-7B                | 24.5     | 27.3     | 27.4      |
 | OpenCUA-7B *(Ours)*           | 24.3     | 27.9     | 26.6      |
 | OpenCUA-32B *(Ours)*          | **29.7** | **34.1** | 34.8      |
-| **OpenCUA-72B-preview *(Ours)***      | 39.0   | 44.9  | **45.0**  |
+| **OpenCUA-72B*(Ours)***      | 39.0   | 44.9  | **45.0**  |
 </div>
 
 *OpenCUA scores are the mean of 3 independent runs.*
@@ -149,7 +149,7 @@ It also closes the gap to proprietary Claude models.
 | UI-TARS-72B     | 57.1 | 90.3 | 38.1 | 25.5 |
 | **OpenCUA-7B**  | 55.3 | 92.3 | 50.0 | 29.7 |
 | **OpenCUA-32B** | **59.6** | **93.4** | 55.3 | 33.3 |
-| **OpenCUA-72B-preview** | 59.2 | 92.9 | **60.8** | **37.3** |
+| **OpenCUA-72B** | 59.2 | 92.9 | **60.8** | **37.3** |
 </div>
 
 
