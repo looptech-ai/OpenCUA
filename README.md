@@ -20,6 +20,8 @@
 <div style="max-width:900px;margin:0 auto;">
 
 ## 📢 Updates
+- 2025-11-28: VLLM support of OpenCUA is available at [[Model] Add OpenCUA-7B support #29068](https://github.com/vllm-project/vllm/pull/29068). Super grateful to [lim4349](https://github.com/lim4349) !
+  
 - 2025-10-12:  <span style="font-weight:bold">[OpenCUA-7B-exl2](https://huggingface.co/sujitvasanth/OpenCUA-7B-exl2) is now live!</span> ⚡️  
   Thanks to [Sujit Vasanth](https://huggingface.co/sujitvasanth) for producing a quantized **exllamav2** version of OpenCUA-7B — enabling much faster inference with lower VRAM usage.  
 
