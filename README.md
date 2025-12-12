@@ -268,9 +268,12 @@ The development of our tool is based on the open-source projects-<a href="https:
 We are very grateful to their commitment to the open source community. Finally, we extend our deepest thanks to all annotators for their tremendous effort and contributions to this project.
 </p>
 
-## Research Use and Disclaimer
+## Research and Commercial Use
 
-OpenCUA is intended for **research and educational purposes only**. 
+OpenCUA (including the model, dataset, tools, and code) may be used for **research, educational, and commercial purposes** under the **MIT License** (see `LICENSE`).
+
+### Citation and Acknowledgement
+If you use **OpenCUA models** and/or the **AgentNet dataset** in any **report, technical report, publication, thesis, presentation, blog post, documentation, or other publicly shared material**, we **kindly ask** that you include an explicit acknowledgement in the main text and cite the OpenCUA paper.
 
 ### Prohibited Uses
 - The model, dataset, tool, and code may **not** be used for any purpose or activity that violates applicable laws or regulations in any jurisdiction
